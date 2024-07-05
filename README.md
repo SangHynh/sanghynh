@@ -11,17 +11,6 @@
 
 - ⚡ Fun fact **I'm not Jesse Pinkman**
 
-
-
-- 👨‍💻 All of my projects are available at [https://sanghynhdev.netlify](https://sanghynhdev.netlify)
-
-- 💬 Ask me about **Mr Why?**
-
-- 📫 How to reach me **huynhvansang.020102@gmail.com**
-
-- ⚡ Fun fact **I'm not Jesse Pikman**
-
-
 ### SOCIAL MEDIA 
 <p align="left">
 <a href="https://linkedin.com/in/sanghynh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanghynh" height="30" width="40" /></a>
