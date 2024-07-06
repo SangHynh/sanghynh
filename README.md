@@ -3,7 +3,6 @@
 <h3 align="center">breaking web</h3>
 
 <img src="https://komarev.com/ghpvc/?username=sanghynh&label=Profile%20views&color=0e75b6&style=flat" alt="sanghynh" />
-<img src="https://visitor-badge.laobi.icu/badge?page_id=sanghynh.sanghynh&"  />
 
 - 👨‍💻 All of my projects are available at <a href="https://sanghynhdev.netlify.app/" target="_blank">[Portfolio]</a>
 
