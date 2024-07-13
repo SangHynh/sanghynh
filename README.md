@@ -1,14 +1,10 @@
   ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<h1 align="center">Yo yo yo, Sanghynh in the house!</h1>
-<h3 align="center">breaking web</h3>
+<h1 align="center">Hello, I'm SangHynh!</h1>
+<h3 align="center">Itern Web</h3>
 
 <img src="https://komarev.com/ghpvc/?username=sanghynh&label=Profile%20views&color=0e75b6&style=flat" alt="sanghynh" />
 
 - 👨‍💻 All of my projects are available at <a href="https://sanghynhdev.netlify.app/" target="_blank">[Portfolio]</a>
-
-- 💬 Don't ask me about **Mr Why?**
-
-- ⚡ Fun fact **I'm not Jesse Pinkman**
 
 ### SOCIAL MEDIA 
 <p align="left">
@@ -44,17 +40,9 @@
 
 ### TOOLS
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
