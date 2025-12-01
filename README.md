@@ -68,14 +68,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cloudinary" height="40"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=socketio" height="40"/>
-</div>
-
----
-
-### 📊 STATS
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanghynh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://skillicons.dev/icons?i=socketio" height="40" />
 </div>
 
 ---
