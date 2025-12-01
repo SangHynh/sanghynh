@@ -68,7 +68,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cloudinary" height="40"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=socketio" height="40" />
 </div>
 
 ---
