@@ -15,7 +15,10 @@
 ### 🌐 SOCIAL MEDIA
 <p align="left">
 <a href="https://linkedin.com/in/sanghynh" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://github.com/SangHynh" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
 </a>
 </p>
 
@@ -54,6 +57,8 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="40"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redis" height="40"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40"/>
 </div>
 
 **Others**
@@ -66,8 +71,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cloudinary" height="40"/>
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40"/>
 </div>
 
 ---
