@@ -27,12 +27,7 @@
 ### 🛠️ TECH STACK
 
 **Frontend**
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
@@ -41,13 +36,22 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
+</div>
+
+**Creative & Visual**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=shadcn" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" height="40"/>
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge&logoColor=white" height="40"/>
 </div>
 
 **Backend**
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
   <img width="12" />
@@ -61,21 +65,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redis" height="40"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="40"/>
-</div>
-
-**Others**
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=github" height="40"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40"/>
 </div>
 
 ---
